@@ -5,8 +5,8 @@
   "author": {
     "name": "cyanheads"
   },
-  "homepage": "https://github.com/cyanheads/eia-energy-mcp-server#readme",
-  "repository": "https://github.com/cyanheads/eia-energy-mcp-server",
+  "homepage": "https://github.com/symercuria/eia-energy-mcp-server-main-marketplace#readme",
+  "repository": "https://github.com/symercuria/eia-energy-mcp-server-main-marketplace",
   "license": "Apache-2.0",
   "mcpServers": {
     "@cyanheads/eia-energy-mcp-server": {

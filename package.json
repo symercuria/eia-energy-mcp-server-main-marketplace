@@ -62,12 +62,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cyanheads/eia-energy-mcp-server.git"
+    "url": "git+https://github.com/symercuria/eia-energy-mcp-server-main-marketplace.git"
   },
   "bugs": {
-    "url": "https://github.com/cyanheads/eia-energy-mcp-server/issues"
+    "url": "https://github.com/symercuria/eia-energy-mcp-server-main-marketplace/issues"
   },
-  "homepage": "https://github.com/cyanheads/eia-energy-mcp-server#readme",
+  "homepage": "https://github.com/symercuria/eia-energy-mcp-server-main-marketplace#readme",
   "author": "cyanheads <casey@caseyjhand.com> (https://github.com/cyanheads/eia-energy-mcp-server#readme)",
   "funding": [
     {

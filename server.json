@@ -3,7 +3,7 @@
   "name": "io.github.cyanheads/eia-energy-mcp-server",
   "description": "Browse and query the EIA API v2 — electricity, petroleum, natural gas, coal, forecasts via MCP.",
   "repository": {
-    "url": "https://github.com/cyanheads/eia-energy-mcp-server",
+    "url": "https://github.com/symercuria/eia-energy-mcp-server-main-marketplace",
     "source": "github"
   },
   "version": "0.2.3",
