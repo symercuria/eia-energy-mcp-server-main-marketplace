@@ -1,0 +1,18 @@
+{
+  "name": "eia-energy",
+  "owner": {
+    "name": "cyanheads",
+    "email": "casey@caseyjhand.com"
+  },
+  "plugins": [
+    {
+      "name": "eia-energy-mcp-server",
+      "source": ".",
+      "description": "Browse and query the U.S. Energy Information Administration API v2 — electricity, petroleum, natural gas, coal, forecasts, and more via MCP.",
+      "version": "0.2.3",
+      "author": {
+        "name": "cyanheads"
+      }
+    }
+  ]
+}
