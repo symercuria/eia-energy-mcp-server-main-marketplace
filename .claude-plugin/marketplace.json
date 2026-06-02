@@ -1,18 +1,38 @@
 {
-  "name": "eia-energy",
+  "name": "eia-energy-marketplace",
+  "version": "0.1.0",
+  "description": "Marketplace catalog for the EIA Energy MCP server plugin.",
   "owner": {
-    "name": "cyanheads",
-    "email": "casey@caseyjhand.com"
+    "name": "symercuria",
+    "url": "https://github.com/symercuria/eia-energy-mcp-server-main-marketplace"
   },
+  "pluginRoot": "./",
   "plugins": [
     {
       "name": "eia-energy-mcp-server",
-      "source": ".",
-      "description": "Browse and query the U.S. Energy Information Administration API v2 — electricity, petroleum, natural gas, coal, forecasts, and more via MCP.",
+      "source": "./",
       "version": "0.2.3",
+      "description": "Browse and query the U.S. Energy Information Administration API v2 - electricity, petroleum, natural gas, coal, forecasts, and more via MCP.",
       "author": {
         "name": "cyanheads"
-      }
+      },
+      "license": "Apache-2.0",
+      "repository": "https://github.com/symercuria/eia-energy-mcp-server-main-marketplace",
+      "keywords": [
+        "mcp",
+        "mcp-server",
+        "eia",
+        "energy",
+        "electricity",
+        "petroleum",
+        "natural-gas",
+        "coal"
+      ],
+      "skills": [
+        "./skills/setup/SKILL.md",
+        "./skills/field-test/SKILL.md",
+        "./skills/security-pass/SKILL.md"
+      ]
     }
   ]
 }
