@@ -14,10 +14,9 @@
   "license": "Apache-2.0",
   "server": {
     "type": "node",
-    "entry_point": "dist/index.js",
     "mcp_config": {
-      "command": "node",
-      "args": ["${__dirname}/dist/index.js"],
+      "command": "npx",
+      "args": ["-y", "@cyanheads/eia-energy-mcp-server@latest"],
       "env": {
         "EIA_API_KEY": "${user_config.eia_api_key}",
         "MCP_TRANSPORT_TYPE": "stdio",
