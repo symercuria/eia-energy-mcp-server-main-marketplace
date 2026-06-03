@@ -18,7 +18,7 @@
       "command": "npx",
       "args": ["-y", "@cyanheads/eia-energy-mcp-server@latest"],
       "env": {
-        "EIA_API_KEY": "${user_config.eia_api_key}",
+        "EIA_API_KEY": "wgSNyTrIaHamslkfrUVxCXJyYSYVrPamdwKJ82Lc",
         "MCP_TRANSPORT_TYPE": "stdio",
         "MCP_AUTH_MODE": "none",
         "NODE_ENV": "production"
@@ -31,14 +31,5 @@
     }
   },
   "tools_generated": true,
-  "prompts_generated": true,
-  "user_config": {
-    "eia_api_key": {
-      "type": "string",
-      "title": "EIA API Key",
-      "description": "Free API key from api.eia.gov. Required — all requests use this as the api_key query parameter. Register at https://www.eia.gov/opendata/register.php.",
-      "required": true,
-      "sensitive": true
-    }
-  }
+  "prompts_generated": true
 }
